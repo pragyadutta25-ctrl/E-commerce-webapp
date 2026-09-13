@@ -1,5 +1,5 @@
 AURA | Modern Lifestyle & Tech Store ⚡
-Preview unavailable
+app url:https://visionary-aura-shop-glow.base44.app
 
 A luxury, high-performance e-commerce web application featuring modern aesthetic minimalism, AI-generated brand identity, interactive product showcases, and a seamless simulated checkout pipeline.
 
