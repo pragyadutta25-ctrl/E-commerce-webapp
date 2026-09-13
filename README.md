@@ -38,17 +38,20 @@ Make sure you have Node.js
  installed (v18 or higher recommended).
 
 Installation
+
 1.Clone or copy this repository:
 
 bash
 
 git clone <your-repo-url>
 cd aura-ecommerce
+
 2.Install dependencies:
 
 bash
 
 npm install
+
 3.Start the local development server:
 
 bash
@@ -112,5 +115,6 @@ aura-ecommerce/
 Vercel: Run npx vercel --prod
 Netlify: Run npx netlify deploy --dir=dist --prod or drag & drop dist/ into app.netlify.com/drop
 GitHub Pages: Set build output to dist using the Vite static deploy action.
+
 📄 License
 MIT License. Free for personal and commercial use.
